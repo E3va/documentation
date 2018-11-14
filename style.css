@@ -1,6 +1,4 @@
 #Wrapper{
-margin-left:auto;
-margin-right:auto;
 padding:0;
 
 
@@ -26,7 +24,7 @@ body {
     background-repeat: no-repeat;
     background-position: center; 
     background-size: cover;
-    padding: 0px 25px;
+    padding: 0;
     min-width:800px;
 
    
@@ -248,19 +246,19 @@ p3 {
 .float-left {
     width:45%;
     float:left;
-    margin:230px 0px 0px 0px;
+    margin:230px 0px 0px 10px;
 }
 
 .float-left-scenario {
     width:45%;
     float:left;
-    margin:0px 0px 0px 0px;
+    margin:0px 0px 0px 10px;
 }
 
 .float-left-para2 {
     width:45%;
     float:left;
-    margin:30px 0px 0px 0px;
+    margin:30px 0px 0px 10px;
 }
 
 .float-center {
